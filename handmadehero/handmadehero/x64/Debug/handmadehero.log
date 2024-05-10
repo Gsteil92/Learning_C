@@ -1,0 +1,5 @@
+﻿  project1.cpp
+D:\Game_Dev\visual_studio_2022\Learning_C\handmadehero\project1.cpp(5,11): error C2440: 'initializing': cannot convert from 'const char [51]' to 'char'
+  D:\Game_Dev\visual_studio_2022\Learning_C\handmadehero\project1.cpp(5,11):
+  There is no context in which this conversion is possible
+  
